@@ -1,0 +1,24 @@
+Top Kubernetes Interview Questions Every DevOps Engineer Should Prepare For
+If you're preparing for DevOps / SRE / Cloud interviews, here are some important Kubernetes questions worth revising:
+🔹 What is Kubernetes and how does it work?
+🔹 What are Pods in Kubernetes?
+🔹 Difference between Deployment and StatefulSet?
+🔹 What are ReplicaSets in Kubernetes?
+🔹 What are Kubernetes Services and their types?
+🔹 Difference between ConfigMap and Secret?
+🔹 How does Kubernetes scheduling work?
+🔹 What are Namespaces in Kubernetes?
+🔹 What is Ingress and how does it work?
+🔹 What are taints and tolerations?
+🔹 What are liveness and readiness probes?
+🔹 How do you perform rolling updates?
+🔹 How do you handle rollbacks?
+🔹 How do you monitor Kubernetes clusters?
+🔹 How do you debug failed Pods?
+🔹 How do you manage persistent storage?
+🔹 What is Helm and how does it work?
+🔹 How do you secure Kubernetes clusters?
+🔹 Common Kubernetes production issues and fixes?
+🔹 Best practices for Kubernetes in production?
+Mastering these concepts is essential for building and managing scalable containerized applications.
+What Kubernetes interview question challenged you the most? Drop it in the comments 👇
